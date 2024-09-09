@@ -1,1 +1,1 @@
-ESte es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora. prueba  numero 5 
+Este proyecto es una prueba y como crear un repositorio en hithub en mi computadora. 
